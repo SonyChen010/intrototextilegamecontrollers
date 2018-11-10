@@ -30,7 +30,7 @@ Serial.write(value);
 }
 
 void establishContact(){
-  while(Serial.available()<=0){
-    Serial.print('A');
-    delay(300);
-  }}
+while(Serial.available()<=0){
+Serial.print('A');
+delay(300);
+}}
