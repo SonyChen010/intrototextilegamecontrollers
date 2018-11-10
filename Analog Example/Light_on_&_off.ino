@@ -7,6 +7,7 @@
  * https://www.arduino.cc/en/Tutorial/SerialCallResponse
  * Social Body Lab, 2018 Nov.
 **************************************************************************/
+//Arduino 
 
 char val;
 int felt = 0;
