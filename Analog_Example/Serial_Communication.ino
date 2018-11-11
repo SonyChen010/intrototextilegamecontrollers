@@ -1,3 +1,13 @@
+/**************************************************************************
+ * Textile Game Controller workshop 
+ * Working with Arduino Micro board and conductive materials
+ * Digital switch example
+ * Arduino Example code:
+ * https://www.arduino.cc/en/Tutorial/SerialCallResponse
+ * Social Body Lab, 2018 Oct.
+**************************************************************************/
+//Arduino
+
 char val;
 int felt = 0;
 int value = 0;
