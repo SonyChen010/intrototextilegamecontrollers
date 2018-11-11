@@ -1,3 +1,13 @@
+/**************************************************************************
+ * Textile Game Controller workshop 
+ * Working with Arduino Micro board and conductive materials
+ * Analog switch example
+ * Arduino Example code:
+ * https://learn.sparkfun.com/tutorials/connecting-arduino-to-processing/all
+ * Social Body Lab, 2018 Oct.
+**************************************************************************/
+//Processing file
+
 import processing.serial.*;
 Serial myPort;    
 int value1;
