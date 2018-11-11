@@ -36,9 +36,6 @@ if (value >= 200){
 image(img2, 0, 0);
 }
 
-
-
-
 else{
 image(img1,0, 0);
 }}
